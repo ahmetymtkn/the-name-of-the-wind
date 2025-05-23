@@ -31,7 +31,7 @@ Kediye tıklayarak oyuna ulaşabilirsiniz.
 - **Sahne ve Kamera Takibi:** Karakter hareket ettikçe ekran kayarak takip eder .
 - **Gerçekçi Animasyonlar:** Karakter hareketi ve rüzgarın oluşumugerçekçi yapılmaya çalışımıştır.
 - **Oyuna Ait Sesler:** Arkaplan müziği; kazanma, zıplama ve şemsiye efektleri ile kullanıcıya oyun hissettirilmeye çalışılmıştır.
-- **Zorluk:** Doğru rüzgar seçimi ve doğru kombatlar ile oyunun tammalanması için zor bir harita tasarlanmıştır.
+- **Zorluk:** Doğru rüzgar seçimi ve doğru kombatlar ile oyunun tamamlanması için zor bir harita tasarlanmıştır.
 
 ![Oyun Görseli 4](https://github.com/ahmetymtkn/photo/blob/main/game_photo_4.png)
 
