@@ -1,10 +1,13 @@
 
 ## ☂️ THE NAME OF THE WİND
+🎥 [OYNANIŞ VİDEOSU ](https://youtu.be/ID7PsjU-G68)
 
 HTML5, Canvas ve JavaScript kullanılarak geliştirilen bu 2D platform oyununda oyuncu, sevimli bir karakteri kontrol ederek engelleri aşar, blokların üstünde zıplar, boşluklardan kaçınır, havada şemsiyesi ile süzülür ve kedisine ulaşmaya çalışır.
 
 ![Oyun Görseli 1](https://github.com/ahmetymtkn/photo/blob/main/game_photo_3.png)
 ![Oyun Görseli 2](https://github.com/ahmetymtkn/photo/blob/main/game_photo_2.png)
+
+
 
 ##  Nasıl Oynanır?
 
