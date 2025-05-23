@@ -44,8 +44,8 @@ Kediye tıklayarak oyuna ulaşabilirsiniz.
 [https://www.pixilart.com](https://www.pixilart.com)
 
 **Kullanılan sesler:**  
-- [Arkaplan Müziği](https://www.youtube.com/watch?v=qMEkGgA1QuQ&ab_channel=Musictime)  
-- [Zıplama efekti](https://youtu.be/auD_fT0KCQg?si=DSLrAO_Jb_jSixY-)  
-- [Şemsiye efekti](https://youtube.com/shorts/E4Ox6EboAnw?si=ONu8akEYD_8FXHoy)  
+- [Arkaplan Müziği](https://www.youtube.com/watch?v=qMEkGgA1QuQ&ab_channel=Musictime)
+- [Zıplama efekti](https://youtu.be/auD_fT0KCQg?si=DSLrAO_Jb_jSixY-)
+- [Şemsiye efekti](https://youtube.com/shorts/E4Ox6EboAnw?si=ONu8akEYD_8FXHoy)
 - [Kazanma Efekti](https://youtu.be/kgMToRGOAT4?si=K_y9c7M4zNd3T11h)
 
